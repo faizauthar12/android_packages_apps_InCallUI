@@ -56,10 +56,10 @@
     <dimen name="call_banner_name_number_right_padding">50sp</dimen>
 
     <!-- Height and width of the in-call buttons. -->
-    <dimen name="in_call_button_dimension">85dp</dimen>
+    <dimen name="in_call_button_dimension">48dp</dimen>
 
     <dimen name="primary_call_elevation">5dp</dimen>
-    <dimen name="dialpad_elevation">7dp</dimen>
+    <dimen name="dialpad_elevation">2dp</dimen>
 
     <!-- The InCallUI dialpad will sometimes want digits sizes that are different from dialer.
          Note: These are the default sizes for small (<600dp height) devices: larger screen sizes
@@ -71,10 +71,10 @@
     <dimen name="dialpad_digits_adjustable_height">50dp</dimen>
     <dimen name="dialpad_key_numbers_size">36dp</dimen>
 
-    <dimen name="floating_action_button_vertical_offset">-11dp</dimen>
+    <dimen name="floating_action_button_vertical_offset">-24dp</dimen>
 
-    <dimen name="call_button_margin_vertical">3dp</dimen>
-    <dimen name="call_button_margin_horizontal">0dp</dimen>
+    <dimen name="call_button_margin_vertical">8dp</dimen>
+    <dimen name="call_button_margin_horizontal">6dp</dimen>
 
     <!-- Dimensions for DSDA switch tab -->
     <dimen name="dsda_sub_icon_marginTop">14dp</dimen>
@@ -111,7 +111,7 @@
     <!-- Height of translucent shadow effect -->
     <dimen name="translucent_shadow_height">2dp</dimen>
 
-    <dimen name="end_call_button_margin_bottom">106dp</dimen>
+    <dimen name="end_call_button_margin_bottom">8dp</dimen>
 
     <dimen name="call_card_anim_translate_y_offset">50dp</dimen>
 
